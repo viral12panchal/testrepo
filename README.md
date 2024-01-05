@@ -1,2 +1,2 @@
 # testrepo
-data cience
+data science
